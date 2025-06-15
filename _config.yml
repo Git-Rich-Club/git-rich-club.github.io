@@ -320,7 +320,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: main      
+        nav: docs      
       author_profile: true
       read_time: true
       comments: # true
@@ -334,4 +334,4 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: main
+        nav: docs
