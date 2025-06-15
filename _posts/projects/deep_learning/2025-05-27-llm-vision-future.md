@@ -1,7 +1,8 @@
 ---
 title: "GUI에서 LLM으로: 비전 검사 자동화의 전환점"
 excerpt: "GUI 기반 상용 도구인 Cognex의 장단점을 바탕으로, 향후 LLM 기반 AI가 머신비전 모델 개발을 어떻게 변화시킬 수 있을지에 대해 개인적 관점을 정리한다."
-categories: [planning]
+categories:
+    - deep_learning
 tags: [cognex, automation, llm, vision]
 layout: single
 toc: true
