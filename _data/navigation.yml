@@ -1,17 +1,30 @@
 main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "CATAGORIES"
+    url: /categories/
+  # - title: "Edit guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "DL"
+  #   children:
+  #     - title: "1. 기획 & 데이터 설계"
+  #       url: /projects/deep-learning/planning/
+  #     - title: "2. 모델링 & 학습 평가"
+  #       url: /projects/deep-learning/modeling/
+  #     - title: "3. 배포 & 운영"
+  #       url: /projects/deep-learning/deployment/
+  #     - title: "기타"
+  #       url: /projects/deep-learning/misc/
+
+docs:
   - title: "Project"
-    url: /projects/
-  - title: "Edit guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "DL"
+    url: /categories/project/
     children:
-      - title: "1. 기획 & 데이터 설계"
-        url: /projects/deep-learning/planning/
-      - title: "2. 모델링 & 학습 평가"
-        url: /projects/deep-learning/modeling/
-      - title: "3. 배포 & 운영"
-        url: /projects/deep-learning/deployment/
-      - title: "기타"
-        url: /projects/deep-learning/misc/
-
-
+      - title: "DL"
+        url: /categories/project/deep_learning
+        category: "deep_learning"
+      - title: "DAGM2007"
+        url: /categories/project/dagm2007
+        category: "dagm2007"
