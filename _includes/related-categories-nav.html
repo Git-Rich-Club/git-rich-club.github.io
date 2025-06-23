@@ -12,12 +12,20 @@
   <ul class="cat_part">
     {% for post in posts %}
         {% assign cat = post.categories | downcase %}
-        {% if cat contains category_key %}
+        {% if post == page %}
           <li>
-            <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+            <a href="{{ post.url | relative_url }}" style="text-decoration: solid; color: crimson;">
               {{ post.title }}
             </a>
           </li>
+        {% else %}
+          {% if cat contains category_key %}
+            <li>
+              <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+                {{ post.title }}
+              </a>
+            </li>
+          {% endif %}
         {% endif %}
     {% endfor %}
     
