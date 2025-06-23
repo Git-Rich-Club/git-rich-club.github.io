@@ -1,6 +1,6 @@
 ---
 title: Machine Learning
-name: Machine Learning
+name: MachineLearning
 isSub: true
 layout: category
 parent: Note

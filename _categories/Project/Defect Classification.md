@@ -1,6 +1,6 @@
 ---
 title: Defect Classification
-name: Defect Classification
+name: DefectClassification
 isSub: true
 layout: category
 parent: Project
