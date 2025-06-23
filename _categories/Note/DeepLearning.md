@@ -1,5 +1,5 @@
 ---
-title: Deep Learning
+title: DeepLearning
 name: DeepLearning
 isSub: true
 layout: category
