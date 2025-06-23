@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: MachineLearning
 name: MachineLearning
 isSub: true
 layout: category

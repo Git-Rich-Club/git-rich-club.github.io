@@ -1,5 +1,5 @@
 ---
-title: Defect Classification
+title: DefectClassification
 name: DefectClassification
 isSub: true
 layout: category

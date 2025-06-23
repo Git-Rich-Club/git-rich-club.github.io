@@ -1,6 +1,6 @@
 ---
-title: Deep Learning
-name: Deep Learning
+title: DeepLearning
+name: DeepLearning
 isSub: true
 layout: category
 parent: Note
