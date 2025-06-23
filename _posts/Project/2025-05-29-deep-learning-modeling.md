@@ -5,7 +5,7 @@ layout: post
 thumbnail: https://www.researchgate.net/publication/356553398/figure/fig2/AS:1094438805868545@1637945953131/Samples-of-the-DAGM-2007-data-set.jpg
 categories:
     - Project
-    - Defect Classification
+    - DefectClassification
 tags: 
     - planning 
     - model

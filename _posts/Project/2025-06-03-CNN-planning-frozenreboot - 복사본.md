@@ -4,7 +4,7 @@ date: 2025-05-28 10:00:00 +0900
 layout: post
 categories: 
     - Project
-    - Defect Classification
+    - DefectClassification
 tags: 
     - planning 
     - model

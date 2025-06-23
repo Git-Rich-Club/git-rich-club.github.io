@@ -4,7 +4,7 @@ excerpt: "데이터 증강(Augmentation)이 왜 필요한지 설명하고, 실�
 layout: post
 categories: 
     - Note
-    - Machine Learning
+    - MachineLearning
 tags: 
     - augmentation
     - preprocessing
@@ -12,7 +12,6 @@ tags:
 toc: true
 toc_label: "On this page"
 toc_sticky: true
-permalink: /planning/augmentation/
 ---
 
 

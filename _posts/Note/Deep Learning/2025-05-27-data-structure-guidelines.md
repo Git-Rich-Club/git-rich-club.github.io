@@ -4,7 +4,7 @@ excerpt: "ResNet과 YOLO 모델 학습에 필요한 폴더 구조와 라벨 형�
 layout: post
 categories: 
     - Note
-    - Deep Learning
+    - DeepLearning
 tags: 
     - dataset
     - labeling
@@ -17,7 +17,6 @@ header      :
   caption: "출처: [Kaggle - DAGM 2007 Optical Inspection Dataset](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)"
 toc: true
 toc_label: "Contents"
-permalink: /planning/data-structure-guidelines/
 ---
 
 ## 📌 개요

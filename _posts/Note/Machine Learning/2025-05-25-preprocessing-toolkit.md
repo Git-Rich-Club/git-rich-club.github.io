@@ -11,7 +11,7 @@ comments: true
 share: true
 categories: 
     - Note
-    - Machine Learning
+    - MachineLearning
 tags: 
     - augmentation
     - OpenCV
